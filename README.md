@@ -20,4 +20,19 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation]
+(https://nextjs.org/docs/deployment)).
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+First, run the development server:
+#### ALDRIN C. ABILAR
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
